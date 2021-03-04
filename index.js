@@ -1,2 +1,3 @@
-function makeInt (string)
+function makeInt (string) {
 parseInt(string, 10)
+}
