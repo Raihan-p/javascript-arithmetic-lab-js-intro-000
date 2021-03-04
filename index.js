@@ -3,7 +3,7 @@ return parseInt (string, 10)
 }
 
 function preserveDecimal (string) {
-return parseFloat (string)
+return parseFloat (strin)
 }
 function add (a,b) {
 return a + b
