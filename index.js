@@ -1,3 +1,7 @@
 function makeInt(string) {
-parseInt ('2', 10)
+parseInt(string, 10)
+}
+
+function preserveDecimal(string) {
+parseFloat(string)
 }
