@@ -1,7 +1,7 @@
-function makeInt(string) {
-parseInt(string, 10)
+function makeInt (string) {
+parseInt (string, 10)
 }
 
-function preserveDecimal(string) {
-parseFloat(string)
+function preserveDecimal (string) {
+parseFloat (string)
 }
