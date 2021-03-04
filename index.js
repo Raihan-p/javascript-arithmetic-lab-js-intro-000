@@ -1,3 +1,3 @@
-function {makeInt (string)
-  return parseInt(string, 10)
+function { makeInt (string)
+return parseInt(string, 10)
 }
